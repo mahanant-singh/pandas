@@ -1,0 +1,16 @@
+roll_no,name,book_title,issue_date,return_date,fine
+22001,Aarav Singh,Computer Networks,12-09-2004,15-05-2026,15
+22002,Priya Sharma,Data Structures in C,03-05-2026,17-05-2026,16
+22003,Rohan Verma,Database Management Systems,05-05-2026,19-05-2026,0
+22004,Ananya Gupta,Computer Networks,07-05-2026,21-05-2026,10
+22005,Vivek Kumar,Operating System Concepts,09-05-2026,23-05-2026,5
+22006,Sneha Mishra,Machine Learning Basics,11-05-2026,25-05-2026,89
+22007,Aditya Yadav,Artificial Intelligence,13-05-2026,27-05-2026,30
+22008,Neha Patel,Full Stack Web Development,15-05-2026,29-05-2026,20
+22009,Rahul Tiwari,Java Programming,17-05-2026,31-05-2026,18
+22010,Kavya Jain,C++ Fundamentals,19-05-2026,02-06-2026,1
+22011,Arjun Pandey,Linux Administration,21-05-2026,04-06-2026,59
+22012,Pooja Singh,Cloud Computing Essentials,23-05-2026,06-06-2026,20
+22013,Mohit Saxena,Cyber Security Handbook,25-05-2026,08-06-2026,40
+22014,Isha Agarwal,Data Analytics with Python,27-05-2026,10-06-2026,60
+22015,Nitin Dubey,Software Engineering,29-05-2026,12-06-2026,80
